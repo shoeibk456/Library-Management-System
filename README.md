@@ -13,10 +13,14 @@ Library: Coordinates adding books, registering patrons, and issuing loans.
 
 # Completed Features
 Object-oriented structure for Books and Patrons.
+
 Functionality to add books and register new members.
+
 Logic to issue books and update availability status automatically.
 
 # Future Improvements
 Implement a return system to make books available again.
+
 Add a search feature to find books by title or author.
+
 Add validation to prevent duplicate IDs or over-borrowing.
