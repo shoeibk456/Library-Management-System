@@ -6,7 +6,9 @@ To provide a simple Python-based tool for librarians to manage book inventories,
 
 # Classes
 Book: Manages title, author, year, and availability status.
+
 Patron: Stores member details and their list of borrowed books.
+
 Library: Coordinates adding books, registering patrons, and issuing loans.
 
 # Completed Features
